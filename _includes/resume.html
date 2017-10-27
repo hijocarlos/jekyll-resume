@@ -27,15 +27,15 @@
 </dl>
 
 <h3 class="section-title">Skills</h3>
-<dl class="education">
-    {% for qualification in site.data.education %}
+<dl class="experience">
+    {% for job in site.data.jobs %}
         <dt>
-            <p class="title">{{ qualification.qualification }}</p>
-            <p class="company">{{ qualification.school }}</p>
-            <p class="period">{{ qualification.period }}</p>
+            <p class="title">{{ job.title }}</p>
+            <p class="company">{{ job.company }}</p>
+            <p class="period">{{ job.period }}</p>
         </dt><!--
         --><dd>
-            <p>{{ qualification.description }}</p>
+            <p>{{ job.description }}</p>
         </dd>
     {% endfor %}
 </dl>
