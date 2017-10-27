@@ -1,11 +1,11 @@
--   qualification: BSc(Hons) Computer Programming
-    school: Oxford
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
--   qualification: A-Level Computing
-    school: Some High School
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
--   qualification: A-Level Maths
-    school: Some High School
+-   qualification: Bachelor in Communication & Marketing 
+    school: Universidade Tiradentes 
+    description: The course was mostly focused on the intersection between the study of Linguistics/Communication and Marketing/Advertising. Also, I had the opportunity to develop research about Education and Transmedia Storytelling and 'Copyleft' and Creative Commons. 
+    
+-   qualification: Bachelor in Psychology (incomp.)
+    school: Universidade Federal de Sergipe 
+    description: Even though I haven't completed this under-graduation, I had the opportunity to study many classes. Mostly, they involved: Human Behavior, Ethology, Psychology of Consumerism, Psychology of Communication, Philosophy, Anthropology, Developmental Psychology, among others. 
+    
+-   qualification: High School 
+    school: Colégio Santíssimo Sacramento 
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
