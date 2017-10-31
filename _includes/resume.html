@@ -28,14 +28,12 @@
 
 <h3 class="section-title">Skills</h3>
 <dl class="skills">
-    {% for job in site.data.jobs %}
+    {% for job in site.data.skills %}
         <dt>
-            <p class="title">{{ job.title }}</p>
-            <p class="company">{{ job.company }}</p>
-            <p class="period">{{ job.period }}</p>
+            <p class="title">{{ skills.title }}</p>
         </dt><!--
         --><dd>
-            <p>{{ job.description }}</p>
+            <p>{{ skills.description }}</p>
         </dd>
     {% endfor %}
 </dl>
