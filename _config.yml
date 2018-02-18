@@ -8,8 +8,8 @@ baseurl: "/resume
 author: 'Carlos Filho'
 url: ""
 
-name: Carlos
-site.job: digital marketer 
+name: Carlos Filho
+job: digital marketer 
 
 # Build settings
 markdown: kramdown
