@@ -4,12 +4,13 @@
 title: Carlos' Resume 
 email: carlosfilho92@gmail.com
 description: Just my resume 
-baseurl: "/resume
+name: Carlos Filho
+job: digital marketer
+baseurl: "/resume"
 author: 'Carlos Filho'
 url: ""
 
-name: Carlos Filho
-job: digital marketer 
+
 
 # Build settings
 markdown: kramdown
